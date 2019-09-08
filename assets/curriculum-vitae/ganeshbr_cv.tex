@@ -1,0 +1,186 @@
+%-------------------------
+% Subject : Resume
+% Author : Ganesh Belgur
+% Last Updated : 03-NOV-2018
+% Latex Template : Sourabh Bajaj (github.com/sb2nov)
+%------------------------
+
+% Preamble
+\documentclass[a4paper,11pt]{article}
+
+% Package Imports
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+% Customizations
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Renewals
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\renewcommand{\labelitemii}{$\circ$}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+% Sections formatting
+\titleformat{\section}{
+	\vspace{-4pt}
+	\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}
+    \vspace{-5pt}
+}
+\newcommand{\resumeSubItem}[2]{
+  \resumeItem{#1}{#2}
+  \vspace{-4pt}
+}
+\newcommand{\resumeSubHeadingListStart}{
+  \begin{itemize}[leftmargin=*]
+}
+\newcommand{\resumeSubHeadingListEnd}{
+  \end{itemize}
+}
+\newcommand{\resumeItemListStart}{
+  \begin{itemize}
+}
+\newcommand{\resumeItemListEnd}{
+  \end{itemize}
+  \vspace{-5pt}
+}
+
+%-----------DOCUMENT START---------
+\begin{document}
+
+%-----------HEADING----------------
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{{\Large Ganesh Belgur Ramachandra}} & Email : {ganeshbelgur@gmail.com} \\
+    https://www.alienspline.com/ & Github : github.com/mrcivvy \\
+  \end{tabular*}
+
+%-----------EXPERIENCE-------------
+  \section{Experience}
+    \resumeSubHeadingListStart
+
+      \resumeSubheading
+        {MPC Film}
+        {Bangalore, India}
+        {Software Developer - R\&D}
+        {Feb 2017 - Present} \\
+        \vspace{3pt}
+        \textit{\small{https://www.mpc-rnd.com/}}
+
+        \resumeItemListStart
+          \resumeItem{Furtility}
+            {Developed and refactored in-house tool for creating photorealistic hair, fur, feathers and other fibre like clothing}
+          \resumeItem{Haystack}
+            {Developed a new in-house tool based on Furtility for previewing scenes with high density vegetation in Fabric Engine}
+          \resumeItem{FurtilityX}
+            {Making Furtility compliant with a new pipeline using Universal Scene Description data}
+        \resumeItemListEnd
+
+      \resumeSubheading
+        {Xentrix Studios}
+        {Bangalore, India}
+        {Developer - Pipeline}
+        {Jul 2016 - Feb 2017} \\
+        \vspace{3pt}
+        \textit{\small{http://www.xentrixstudios.com/}}
+
+        \resumeItemListStart
+          \item\small{{Developed and optimized in-house C++ plug-ins for Autodesk Maya \vspace{-2pt}}}
+          \item\small{{Improvements to studio\textsc{\char13}s CG pipeline and aiding artists in troubleshooting bugs}}
+        \resumeItemListEnd
+
+      \resumeSubheading
+        {EduTech Solutions (P) Limited}
+        {Bangalore, India}
+        {Intern}
+        {Oct 2014 - Apr 2015}
+
+        \resumeItemListStart
+          \resumeItem{Database Management}
+            {Worked with a team of developers on designing the database schema for managing, storing, retrieving of quizzes and user information which included handling of media files for the Phase I development of an Android app called DLM (Definitive Learning Methodology) under Mr. Kundendu Kumar Sengupta, Director of EduTech Solutions (P) Limited}
+        \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%-----------PROJECTS---------------
+  \section{Projects and Publications}
+    \resumeSubHeadingListStart
+      \resumeSubItem{Minimalistic Raytracer}
+        {A ray tracer implemented based on Peter Shirley's minibook series on writing a raytracer.}
+      \resumeSubItem{DreamWorks FX Challenge}
+        {A simulation of sparks flying in a projectile trajectory that collides with obstacles and splinters.}
+      \resumeSubItem{DreamWorks Steer Quest}
+        {A flocking simulation of a herd of sheep avoiding static and dynamic obstacles in a scene to reach a designated destination.}
+      \resumeSubItem{Alienspline}
+        {A personal, static, technical blog site that is written from scratch using HTML, Sass, Javascript and powered by Jekyll for quick content management.}
+      \resumeSubItem{Grammar Error Detection Tool}
+        {A noval approach based on NLP for detecting grammatical errors in a text. A technical paper was presented on this approach at the Jawaharlal Nehru Technological University, Hyderabad which was published by Springer under the title, 'Proceedings of ICCII 2017, Springer - Advances in Intelligent Systems and Computing'.}
+      \resumeSubItem{Target Identification}
+        {A student project requiring an implementation of an SAX parser to read through 7 million lines of an XML based drug bank data (https://www.drugbank.ca/) to search and push targets associated with a drug into a database.}
+    \resumeSubHeadingListEnd
+
+%-----------EDUCATION--------------
+  \section{Education}
+    \resumeSubHeadingListStart
+      
+      \resumeSubheading
+        {Amrita School of Engineering}{Bangalore, India}
+        {Bachelor of Technology in Computer Science and Engineering with Distinction}{Aug. 2012 -- Aug. 2016}
+        
+        \resumeItemListStart
+          \resumeItem{Courseware}
+            {Computer Organisation and Architecture, Operating Systems, Data Structures and Algorithms, Database Management Systems, Computer Networking, Computer Graphics, Automata theory and Computer Language Engineering, Net-centric Programming, Software Engineering;}
+        \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-----------PROGRAMMING SKILLS-----
+  \section{Skills and Accomplishments}
+    \resumeSubHeadingListStart
+      \resumeSubItem{Programming Languages}
+        {C, C++, Python, Lua, Fabric Engine's KL, HTML, CSS, Sass, Javascript;}
+      \resumeSubItem{Technologies and Frameworks}
+        {OpenGL, Maya, Katana, Houdini, Jekyll, Blender, Unity;}
+      \resumeSubItem{Honor and Award}
+        {Won the third place in Stay Late And Code event, a hackathon which was held at college; Successfully completed a Diploma Course in Visual Effects;}
+      \resumeSubItem{Volunteering}
+        {Served as a Student Volunteer at the ACM SIGGRAPH Asia 2017, Bangkok;
+          Volunteer/ Mentor at GAFX 2018, Bangalore;
+          Organised hackathons at college}
+      \resumeSubItem{Languages}
+        {English (Professional working proficiency); Kannada (Mother tongue);}
+    \resumeSubHeadingListEnd
+
+%-----------DOCUMENT END-----------
+\end{document}
