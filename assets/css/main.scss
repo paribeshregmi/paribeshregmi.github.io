@@ -8,14 +8,12 @@ $base-font-size:   .95em;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit:          30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #0077CC;
-
-$blue-color-dark: darken(#3E7AD1, 10%);
-$blue-color-light: #4B93DB;
+$text-color:            #111;
+$background-color:      #fdfdfd;
+$brand-color-primary:   #d50000;
+$brand-color-secondary: #111;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -25,7 +23,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    950px;
 
-$on-palm:          600px;
+$on-palm:          740px;
 $on-laptop:        950px;
 
 @mixin media-query($device) {

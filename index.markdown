@@ -11,7 +11,7 @@ layout: default
         Welcome
     </h2>
     <p>
-        Hi, I'm Ganesh. I am a software developer at MPC Film. My areas of interest are game engines, rendering, shader writing, simulation and learning algorithms. Take a look at the list of my projects under the <a href="/projects/">Projects</a> tab. You may also want to check out my <a href="https://github.com/mrcivvy">Github profile.</a><br><br>
+        <strong>Hi, I'm Ganesh</strong>. I am a software developer at MPC Film. My areas of interest are game engines, rendering, shader writing, simulation and learning algorithms. Take a look at the list of my projects under the <a href="/projects/">Projects</a> tab. You may also want to check out my <a href="https://github.com/mrcivvy">Github profile.</a><br><br>
 
         To get a better insight on my life so far, you can have a look at my <a href="/curriculum-vitae">curriculum vitae</a>. I blog (although sporadically) and pin them down <a href="/blog">here</a>. Feel free to read a bit more <a href="/about">about me</a>.
     </p>

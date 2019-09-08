@@ -113,7 +113,7 @@ h1 /* .post-title */ {
     letter-spacing: -1px;
     line-height: 1;
 		font-family: 'Titillium Web', sans-serif;
-		color: $blue-color-dark;
+		color: $brand-color-primary;//$brand-color-secondary;
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
@@ -153,8 +153,8 @@ h1 /* .post-title */ {
 }
 
 .footnotes ol li {list-style-type:decimal;}
-.footnotes ol {font-size:.85em; color:#666666;}	
-	
+.footnotes ol {font-size:.85em; color:#666666;}
+
 html {
   overflow-y: scroll;
 }
@@ -173,15 +173,14 @@ ul.listing li.listing-seperator {
 
 ul.listing li.listing-item time {
 
-	color: #333;
+	color: darken($brand-color-secondary, 10%);
 	font-weight: 500;
 	text-transform: uppercase;
 	padding-right: 10px;
 }
 
 ul.listing li.listing-item a {
-	color: $blue-color-dark;
+	color: $brand-color-primary;
 	font-weight: 400;
 	font-family: 'Titillium Web', sans-serif;
 }
-

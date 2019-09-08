@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 740px) {
 
 .site-nav h1 {
 		border-bottom: 3px solid transparent;
@@ -38,12 +38,12 @@
 .site-nav .menu li {
 		display: block;
 		margin: 0;
-		color: $blue-color-dark;
+		color: $brand-color-secondary;
 	}
 
 .site-nav ul.menu a {
 	background: #fff;
-	color: $blue-color-dark;
+	color: $brand-color-secondary;
 
 }
 
@@ -78,3 +78,11 @@
 
 }
 
+// Hack for a long author name
+@media only screen and (max-width: 430px) {
+
+.site-title {
+		width: 250px;
+	}
+
+}

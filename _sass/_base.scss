@@ -90,11 +90,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $brand-color-primary;
     text-decoration: none;
 
    &:visited {
-    /*    color: darken($brand-color, 15%); */
+    /*    color: darken($brand-color-primary, 15%); */
     }
 
     &:hover {
@@ -129,7 +129,7 @@ code {
     font-size: 14px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: lighten($blue-color-light, 35%);
+    background-color: lighten($grey-color, 45%);
 }
 
 code {
@@ -206,7 +206,7 @@ pre {
  * Color button
  */
 .color-button {
-    background: $blue-color-dark;
+    background: $brand-color-secondary;
     border-style: none;
     border-radius: 10px;
     color: white;
@@ -217,7 +217,7 @@ pre {
     margin: 0px 5px 0 0;
     cursor: pointer;
     &:hover {
-        background: $blue-color-light;
+        background: $brand-color-primary;
     }
 }
 
