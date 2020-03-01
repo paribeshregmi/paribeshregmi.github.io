@@ -12,7 +12,7 @@ permalink: /miscellany/movies/
     <li>John Wick Series (2014-2019)</li>
     <li>Logan (2017)</li>
     <li>Sully (2016)</li>
-    <li>Patriots Day</li>
+    <li>Patriots Day (2016)</li>
 	<li>Inside Out (2015)</li>
     <li>American Sniper (2014)</li>
     <li>Interstellar (2014)</li>
@@ -55,7 +55,6 @@ permalink: /miscellany/movies/
     <li>Padman (2018)</li>
     <li>Badhaai Ho (2018)</li>
     <li>Andhadhun (2018)</li>
-    <li>Dangal (2016)</li>
     <li>Detective Byomkesh Bakshy! (2015)</li>
     <li>PK (2014)</li>
     <li>Special 26 (2013)</li>
