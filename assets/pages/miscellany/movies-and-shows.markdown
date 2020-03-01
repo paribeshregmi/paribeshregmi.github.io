@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Movies
-permalink: /miscellany/movies/
+title: Movies and Shows
+permalink: /miscellany/movies-and-shows/
 ---
-<h2>Hollywood</h2>
+
+<h2>English - Movies</h2>
 <ul>
     <li>Knives Out (2019)</li>
     <li>Star Wars Franchise (1977-2019)</li>
@@ -48,7 +49,15 @@ permalink: /miscellany/movies/
 	<li>12 Angry Men (1957)</li>
 </ul>
 
-<h2>Bollywood</h2>
+<h2>English - TV Shows</h2>
+<ul>
+    <li>True Detective (S1-S2) (2014-2019)</li>
+    <li>The Big Bang Theory (S1-S12) (2007-2019)</li>
+    <li>Chernobyl (2019)</li>
+    <li>Black Mirror (S1-S2) (2011-2013)</li>
+</ul>
+
+<h2>Hindi - Movies</h2>
 <ul>
     <li>Uri: The Surgical Strike (2019)</li>
     <li>Raazi (2018)</li>
@@ -70,4 +79,9 @@ permalink: /miscellany/movies/
     <li>Lagaan: Once Upon a Time in India (2001)</li>
     <li>Hera Pheri (2000)</li>
     <li>Jaane Bhi Do Yaaro (1983)</li>
+</ul>
+
+<h2>Hindi - TV Shows</h2>
+<ul>
+    <li>24 - Indian TV series (S1-S2) (2013-2016) </li>
 </ul>
