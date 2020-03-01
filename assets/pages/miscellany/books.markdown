@@ -6,7 +6,6 @@ permalink: /miscellany/books/
 <h2>Fiction</h2>
 <ul>
 	<li><i>The Girl on the Train</i> by Paula Hawkins</li>
-	<li><i>A Song of Ice and Fire</i> by George R. R. Martin</li>
 	<li><i>Perry Mason: The Case of the Ice-Cold Hands</i> by Erle Stanley Gardner</li>
 	<li><i>Perry Mason: The Case of the Drowning Duck</i> by Erle Stanley Gardner</li>
 	<li><i>The Joker In the Pack</i> by James Hadley Chase</li>
@@ -18,5 +17,4 @@ permalink: /miscellany/books/
 	<li><i>Wings of Fire</i> by A P J Abdul Kalam</li>
 	<li><i>Blink</i> by Malcolm Gladwell</li>
 	<li><i>The Lean Startup</i> by Eric Ries</li>
-	<li><i>12 Rules for Life</i> by Jordan B. Peterson</li>
 </ul>
