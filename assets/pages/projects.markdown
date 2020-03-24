@@ -8,7 +8,7 @@ Here is a non-exhaustive list of my projects. You can also check out my Github p
 
 <ul>
 	<li>
-		<b>Orbinal</b>: A ray tracer implemented based on Peter Shirley’s minibook series on writing a raytracer.<br><a href="https://github.com/ganeshbelgur/orbinal"><div class="color-button">code</div></a>
+		<b>Comet</b>: A ray tracer implemented based on Peter Shirley’s minibook series on writing a raytracer.<br><a href="https://github.com/ganeshbelgur/comet"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
 		<b>DreamWorks FX Challenge</b>: A simulation of sparks flying in a projectile trajectory that collides with obstacles and splinters.<br><a href="https://github.com/ganeshbelgur/dreamworks-sparks"><div class="color-button">code</div></a>

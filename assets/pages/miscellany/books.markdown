@@ -17,4 +17,5 @@ permalink: /miscellany/books/
 	<li><i>Wings of Fire</i> by A P J Abdul Kalam</li>
 	<li><i>Blink</i> by Malcolm Gladwell</li>
 	<li><i>The Lean Startup</i> by Eric Ries</li>
+	<li><i>12 Rules for Life: An Antidote to Chaos</i> by Jordan B. Peterson</li>
 </ul>

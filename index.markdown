@@ -13,7 +13,7 @@ layout: default
     <p>
         <strong>Hi, I'm Ganesh</strong>.
         
-        My areas of interest revolve around game engines, photorealistic rendering, shader writing, simulation and learning algorithms. Take a look at the list of my projects under the <a href="/projects/">Projects</a> tab. You may also want to check out my <a href="https://github.com/ganeshbelgur">Github profile.</a><br><br>
+        My areas of interest revolve around photorealistic rendering, game engines, shader writing, simulation and learning algorithms. Take a look at the list of my projects under the <a href="/projects/">Projects</a> tab. You may also want to check out my <a href="https://github.com/ganeshbelgur">Github profile.</a><br><br>
 
         To get a better insight on my life so far, you can have a look at my <a href="/curriculum-vitae">curriculum vitae</a>. I blog (although sporadically) and pin them down <a href="/blog">here</a>. Feel free to read a bit more <a href="/about">about me</a>.
     </p>
@@ -23,6 +23,7 @@ layout: default
 <h2>Updates</h2>
 <div class="updates" style="height: 10em; overflow-y: scroll;">
     <ul>
+        <li><i>February 2020</i> - Received on screen credits for <i>Sonic the Hedgehog</i></li>
         <li><i>December 2019</i> - Received on screen credits for <i>Cats</i></li>
         <li><i>November 2019</i> - Volunteered at the SIGGRAPH Asia conference at Brisbane, Australia</li>
         <li><i>July 2019</i> - Received on screen credits for the Disney's <i>The Lion King</i></li>
