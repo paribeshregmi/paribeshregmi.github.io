@@ -1,8 +1,18 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Publications and Projects
+permalink: /publications-projects/
 ---
+
+<h1 class="post-title">Publications</h1>
+
+<ul>
+	<li>
+		<b>Grammar Error Detection Tool</b>:  A noval approach based on NLP for detecting grammatical errors in a text. A technical paper was presented on this approach at the Jawaharlal Nehru Technological University, Hyderabad which was published by Springer under the title, ’Proceedings of ICCII 2017, Springer - Advances in Intelligent Systems and Computing’.<br><a href="https://link.springer.com/chapter/10.1007/978-981-10-8228-3_5"><div class="color-button">paper</div></a>
+	</li><br>
+</ul>
+
+<h1 class="post-title">Projects</h1>
 
 Here is a non-exhaustive list of my projects. You can also check out my Github profile <a href="https://github.com/ganeshbelgur">here</a> for a complete list of my projects.
 
@@ -15,8 +25,5 @@ Here is a non-exhaustive list of my projects. You can also check out my Github p
 	</li><br>
 	<li>
 		<b>DreamWorks Steer Quest</b>:  A flocking simulation of a herd of sheep avoiding static and dynamic obstacles in a scene to reach a designated destination.<br><a href="https://github.com/ganeshbelgur/dreamworks-flocking"><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Grammar Error Detection Tool</b>:  A noval approach based on NLP for detecting grammatical errors in a text. A technical paper was presented on this approach at the Jawaharlal Nehru Technological University, Hyderabad which was published by Springer under the title, ’Proceedings of ICCII 2017, Springer - Advances in Intelligent Systems and Computing’.<br><a href="https://link.springer.com/chapter/10.1007/978-981-10-8228-3_5"><div class="color-button">paper</div></a>
 	</li><br>
 </ul>

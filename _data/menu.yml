@@ -1,8 +1,8 @@
 - title: "About"
   href: "/about/"
 
-- title: "Projects"
-  href: "/projects/"
+- title: "Publications/Projects"
+  href: "/publications-projects/"
 
 - title: "Blog"
   href: "/blog/"
@@ -10,5 +10,3 @@
 - title: "CV"
   href: "/curriculum-vitae/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
