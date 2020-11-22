@@ -18,12 +18,15 @@ Here is a non-exhaustive list of my projects. You can also check out my Github p
 
 <ul>
 	<li>
-		<b>Comet</b>: A ray tracer implemented based on Peter Shirley’s minibook series on writing a raytracer.<br><a href="https://github.com/ganeshbelgur/comet"><div class="color-button">code</div></a>
+		<b>Comet</b>: An unidirectional path tracer implemented using the Peter Shirley’s minibook series and the PBRT book. The implementation of some of the advanced sampling techniques are in progress.<br><a href="https://github.com/ganeshbelgur/comet"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>DreamWorks FX Challenge</b>: A simulation of sparks flying in a projectile trajectory that collides with obstacles and splinters.<br><a href="https://github.com/ganeshbelgur/dreamworks-sparks"><div class="color-button">code</div></a>
+		<b>Rosary</b>: Rosary is a library of standalone OpenGL applications meant to serve as a playground and a cookbook of recipes at the same time. The library of scenes in the codebase were built over a number of years. Some of the salient features include a first person camera system, loading triangular meshes and materials from disk, Phong lighting-shading model and shadow mapping for directional lights.<br><a href="https://github.com/ganeshbelgur/rosary"><div class="color-button">code</div></a>
 	</li><br>
 	<li>
-		<b>DreamWorks Steer Quest</b>:  A flocking simulation of a herd of sheep avoiding static and dynamic obstacles in a scene to reach a designated destination.<br><a href="https://github.com/ganeshbelgur/dreamworks-flocking"><div class="color-button">code</div></a>
+		<b>DreamWorks FX Challenge</b>: A simulation of sparks flying in a projectile trajectory that collides with obstacles and splinters. The code runs on a browser since it is a WebGL based application.<br><a href="https://github.com/ganeshbelgur/dreamworks-sparks"><div class="color-button">code</div></a>
+	</li><br>
+	<li>
+		<b>DreamWorks Steer Quest</b>:  A flocking simulation of a herd of sheep avoiding static and dynamic obstacles in a scene to reach a designated destination. The algorithm is based on a 1987 paper titled, "Flocks, herds and schools: a distributed behavioral model" by C. W. Reynolds.<br><a href="https://github.com/ganeshbelgur/dreamworks-flocking"><div class="color-button">code</div></a>
 	</li><br>
 </ul>
