@@ -13,7 +13,7 @@ layout: default
         Welcome, I'm Ganesh.
     </h2>
     <p> 
-        My primary area of interest revolves around forward and inverse physically based rendering techniques in computer graphics. Game engine architecture, shader writing, simulation and learning algorithms form my extended areas of interest.<br><br>
+        My primary area of interest revolves around forward and inverse physically based rendering techniques in computer graphics. Game engine architecture, shader writing, simulation and learning algorithms form my extended areas of interest. As of April 2021, I am an incoming student at <i>Guarini School of Graduate and Advanced Studies</i> in <a href="https://en.wikipedia.org/wiki/Dartmouth_College">Dartmouth College</a>.<br><br>
         
         Take a look at the list of my publications and projects under the <a href="/publications-projects/">Publications/Projects</a> tab. You may also want to check out my <a href="https://github.com/ganeshbelgur">Github profile.</a> Although I seldom <a href="/blog">blog</a>, I try to keep my posts simple and concise. To get a better insight into my life so far, you can have a look at my <a href="/curriculum-vitae">curriculum vitae</a> or read <a href="/about">about me</a>. Please feel free to connect with me over <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a> or <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">Linkedin</a> unless you love sending emails. 
     </p>
@@ -23,7 +23,7 @@ layout: default
 <h2>Updates</h2>
 <div class="updates" style="height: 10em; overflow-y: scroll;">
     <ul>
-        <li><i>October, 2020</i> - Joined a HMI solutions provider called <i>Ramp Group</i></li>
+        <li><i>October, 2020</i> - Joined <i>People Tech Group</i> (vendor for General Motors) as a Software Engineer</li>
         <li><i>February, 2020</i> - Received on-screen software development credits for <i>Sonic the Hedgehog</i></li>
         <li><i>December, 2019</i> - Received on-screen software development  credits for <i>Cats</i></li>
         <li><i>November, 2019</i> - Volunteered at the SIGGRAPH Asia conference at Brisbane, Australia</li>
