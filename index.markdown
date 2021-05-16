@@ -7,7 +7,7 @@ layout: default
 
 <div class="home">
 
-    {% include image.html url="/assets/images/profile_greyscale.jpg" width=250 height=400 align="right" %}
+    {% include image.html url="/assets/images/profile_home.jpg" width=250 height=400 align="right" %}
     
     <h2>
         Welcome, I'm Ganesh.
@@ -32,6 +32,6 @@ layout: default
         <li><i>August, 2018</i> - Received on-screen software development credits for <i>The Darkest Minds</i></li>
         <li><i>July, 2018</i> - Published a research paper, <i>"Grammar Error Detection Tool for Medical Transcription Using Stop Words Parts-of-Speech Tags Ngram Based Model"</i> in the Springer journal</li>
         <li><i>November, 2017</i> - Volunteered at the SIGGRAPH Asia conference at Bangkok, Thailand</li>
-        <li><i>February, 2017</i> - Joined an Academy award winning VFX service provider studio named <i>MPC Films</i></li>
+        <li><i>February, 2017</i> - Joined an Academy award winning VFX service provider studio named <i>MPC Film</i></li>
     </ul>
 </div>
