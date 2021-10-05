@@ -9,6 +9,7 @@
 \documentclass[a4paper,11pt]{article}
 
 % Package Imports
+\usepackage[T1]{fontenc}
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
 \usepackage{titlesec}
@@ -91,15 +92,20 @@
   \section{Experience}
     \resumeSubHeadingListStart
       \resumeSubheading
-        {Software Developer}
+        {Software Engineer}
         {Hyderabad, India}
         {Ramp Group, People Tech IT Consultancy Private Limited}
         {Oct 2020 - Present} \\
         \vspace{3pt}
-        \textit{\small{https://www.rampgroup.com/casestudy\_generalmotors.html}}
+        \textit{\small{https://www.rampgroup.com/casestudy\textunderscore generalmotors.html}}
         
         \resumeItemListStart
-          \item\small{{Implementing an OpenGL ES 3.0 based renderer targeting Blackberry's QNX RTOS for General Motor's in-vehicular cluster and infotainment systems}}
+          \item\small{{Implementing an OpenGL ES 3.0/OpenGL 3.3+ based rendering engine from scratch for Blackberry's QNX RTOS and Microsoft Windows, respectively. The engine relies on Qt framework for window management and user inputs from the screens in the automobile.}}
+          \item\small{{The rendering engine supports model loading, camera system (with perspective projection), transformations, textures, a primitive material system and a scalable architecture to support other modern graphics APIs such as Vulkan, Metal and DirectX in the future.}}
+          \item\small{{Designed complex graphics effects within Altia 3D Design Studio using GLSL shaders for the upcoming instrument cluster gauges of GMC and Chevy vehicles}}
+          \item\small{{Successfully implemented a prototype WebSocket server-client mechanism to send instructions from IPC/HMI applications to Unreal Engine to render Ultra Cruise content to screen in real-time. With this prototype, frame rates increased almost 6x when compared to the existing TCP server that relied on long polling.}}
+          \item\small{{Implemented the ability to sync the event-loops of Altia 3D and Unreal Engine to enable content shown on screen to be in sync when the two rendering engines are used together}}
+          \item\small{{Implemented a quick POC to load compressed textures (KTX format, ETC2 compression) into Mali GPU to play video frames using OpenGL}}
         \resumeItemListEnd
 
       \resumeSubheading
@@ -111,10 +117,12 @@
         \textit{\small{https://www.technicolor.com/create/vfx}}
 
         \resumeItemListStart
-            \item\small{{Refactored Furtility as described in "Layering changes in a procedural grooming pipeline" (DigiPro 2018) }}
+            \item\small{{Primarily worked on the refactoring efforts of the in-house procedural fibre-like (hair, fur and grass) geometry generation and grooming tool called Furtility. The tool was used to create visual effects in films and uses a modern curves interpolation algorithm called Catmull-Rom spline interpolation instead of the conventional Beizer curves. The details of these efforts are summarized in a SIGGRAPH paper called "Layering changes in a procedural grooming pipeline" (DigiPro 2018) }}
             \item\small{{Improved preview performance of scenes with high density vegetation by about 40\% with frustum culling }}
-            \item\small{{Implemented hero grass wrapping logic based on "Wires: a geometric deformation technique" (Siggraph 1998) }}
+            \item\small{{Implemented hero grass wrapping logic based on a research paper titled, "Wires: a geometric deformation technique" (Siggraph 1998) }}
             \item\small{{Refactored the hair generation tool for the new Pixar's \emph{Universal Scene Description} based pipeline at Mill Film }}
+            \item\small{{Received multiple on-screen credits in high budget Hollywood feature films for software development: The Darkest Minds (2018), The Lion King (2019), Cats (2019) and Sonic the Hedgehog (2020). (Link: https://www.imdb.com/name/nm10166225/)}}
+            \item\small{{GNU Make was the build system and Gitlab was used for CI/CD in a linux environment (CentOS 6) }}
         \resumeItemListEnd
 
       \resumeSubheading
@@ -126,26 +134,29 @@
         \textit{\small{http://www.xentrixstudios.com/}}
 
         \resumeItemListStart
-          \item\small{{Developed and optimized in-house C++ Maya plug-in for handling non-manifold geometry \vspace{-2pt}}}
-          \item\small{{Implemented improvements to digital asset checking and general quality assurance systems}}
+          \item\small{{Implemented improvements to digital 3D asset checker and other general quality assurance systems}}
+          \item\small{{Wrote a C++ based plugin for Maya that removes millions of duplicated objects in a scene by using a space partitioning technique called Bounding Volume Hierarchy}}
+          \item\small{{Supported artists in troubleshooting problematic Maya scenes}}
         \resumeItemListEnd
 
     \resumeSubHeadingListEnd
-
+%-----------PROGRAMMING SKILLS-----
+  \section{Programming  Skills}
+    \resumeSubHeadingListStart
+      \resumeSubItem{Programming Languages}
+        {C++, C, Python, Lua, Javascript;}
+      \resumeSubItem{Technologies, Frameworks and APIs}
+        {OpenGL, WebGL, Unreal Engine 4, USD, Maya, Katana, Blender;}
+      \resumeSubItem{Tools}
+        {Git, QMake, GNU Make, Visual Studio, GDB, Renderdoc}
+    \resumeSubHeadingListEnd
 %-----------EDUCATION--------------
   \section{Education}
     \resumeSubHeadingListStart
 
       \resumeSubheading
         {Amrita School of Engineering, Amrita Vishwa Vidyapeetham University}{Bangalore, India}
-        {Bachelor of Technology in Computer Science and Engineering - 8.13/10.00 (Distinction)}{Aug. 2012 -- Aug. 2016}
-    \resumeSubHeadingListEnd
-
-%-----------PUBLICATIONS---------------
-  \section{Publications}
-    \resumeSubHeadingListStart
-      \resumeSubItem{Grammar Error Detection Tool for Medical Transcription Using Stop Words Parts-of-Speech Tags Ngram Based Model}
-        {A novel approach in NLP for detecting grammatical errors in a text. A technical paper was presented on this approach at the Jawaharlal Nehru Technological University, Hyderabad and published by Springer. }
+        {Bachelor of Technology in Computer Science and Engineering - 8.13/10.00 (Distinction)}{Aug. 2012 - Aug. 2016}
     \resumeSubHeadingListEnd
 
 %-----------PROJECTS---------------
@@ -161,20 +172,16 @@
         {A flocking simulation of a herd of sheep avoiding static and dynamic obstacles for a hackathon by DreamWorks Dedicated Unit, India (SIGGRAPH 1987, Craig W. Reynolds)}
     \resumeSubHeadingListEnd
 
-%-----------PROGRAMMING SKILLS-----
-  \section{Programming  Skills}
+%-----------PUBLICATIONS---------------
+  \section{Publication}
     \resumeSubHeadingListStart
-      \resumeSubItem{Programming Languages}
-        {C++, Python, Lua, Javascript;}
-      \resumeSubItem{Technologies, Frameworks and APIs}
-        {OpenGL, WebGL, Pixar Universal Scene Description, Unity, Maya, Katana, Blender;}
+      \resumeSubItem{Grammar Error Detection Tool for Medical Transcription Using Stop Words Parts-of-Speech Tags Ngram Based Model}
+        {A novel approach in NLP for detecting grammatical errors in a text. A technical paper was presented on this approach at the Jawaharlal Nehru Technological University, Hyderabad and published by Springer.}
     \resumeSubHeadingListEnd
 
 %-----------OTHER ACHIEVEMENTS-----
   \section{Other Details}
     \resumeSubHeadingListStart
-      \resumeSubItem{Film Credits}
-        {Received multiple on-screen credits in high budget Hollywood feature films for software development: The Darkest Minds (2018), The Lion King (2019), Cats (2019) and Sonic the Hedgehog (2020). (Link: https://www.imdb.com/name/nm10166225/)}
       \resumeSubItem{Volunteering}
         {Served as a student volunteer at the ACM SIGGRAPH Asia 2017 (Bangkok), 2018 (Tokyo) and 2019 (Brisbane);
           Volunteer/ Mentor at GAFX 2018, Bangalore;
