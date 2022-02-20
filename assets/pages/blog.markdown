@@ -4,8 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-Here are my carefully compiled views on some topics that I encountered so far. Hopefully, you will find them helpful!
-
 <ul class="listing">
     <a href="https://towardsdatascience.com/geodesic-regression-d0334de2d9d8">Geodesic Regression</a> <br>
     <a href="https://towardsdatascience.com/principal-geodesic-analysis-2ec7ad1b2679">Principal Geodesic Analysis</a> <br>
