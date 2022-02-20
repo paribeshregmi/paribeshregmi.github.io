@@ -7,15 +7,7 @@ permalink: /blog/
 Here are my carefully compiled views on some topics that I encountered so far. Hopefully, you will find them helpful!
 
 <ul class="listing">
-{% for post in site.categories.technology %}
-    <!-- {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-    {% if year != y %}
-      {% assign year = y %}
-      <li class="listing-seperator">{{ y }}</li>
-    {% endif %} -->
-    <li class="listing-item">
-      <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
+    <a href="https://towardsdatascience.com/geodesic-regression-d0334de2d9d8">Geodesic Regression</a> <br>
+    <a href="https://towardsdatascience.com/principal-geodesic-analysis-2ec7ad1b2679">Principal Geodesic Analysis</a> <br>
+    <a href="https://paribeshregmi.medium.com/a-soft-intro-to-general-relativity-aa46da221747">A soft Intro to General Relativity</a> <br>
 </ul>
