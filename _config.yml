@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   #The opinions shared in this website do not reflect the opinions of the author's current or previous employers.
   #<i>Copyright (c) 2018-2022 Ganesh Belgur</i>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ganeshbelgur.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 disqus: https://alienspline.disqus.com/embed.js
 
 twitter_username: paribeshregmi
