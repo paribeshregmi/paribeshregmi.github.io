@@ -206,7 +206,7 @@ pre {
  * Color button
  */
 .color-button {
-    background: $brand-color-secondary;
+    background: $brand-color-primary;
     border-style: none;
     border-radius: 10px;
     color: white;
@@ -217,7 +217,7 @@ pre {
     margin: 0px 5px 0 0;
     cursor: pointer;
     &:hover {
-        background: $brand-color-primary;
+        background: $link-color;
     }
 }
 
