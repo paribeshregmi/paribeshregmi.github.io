@@ -15,7 +15,7 @@ layout: default
     </h2>
     <p> 
         
-        I am a first year Computer Science PhD student at Rochester Institute of Technology (RIT). I work at Lab of Use-Inspired Computational Intelligence (LUCI) under the supervison of Prof. Rui Li. My research areas are Statistical Machine Learning, Bayesian Deep Learning, Computational Biology, Mathematics and Statistics. I completed my undergraduate in Electronics and Communication Engineering from Pulchowk Campus, Institute of Engineering, Nepal.
+        I am a first year Computer Science PhD student at Rochester Institute of Technology (RIT). I work at Lab of Use-Inspired Computational Intelligence (LUCI) under the supervison of <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a>. My research areas are Statistical Machine Learning, Bayesian Deep Learning, Computational Biology, Mathematics and Statistics. I completed my undergraduate in Electronics and Communication Engineering from Pulchowk Campus, Institute of Engineering, Nepal.
          
     </p>
 
