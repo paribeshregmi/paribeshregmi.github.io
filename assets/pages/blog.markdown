@@ -15,7 +15,7 @@ permalink: /blog/
         <em> Published in <a href="https://towardsdatascience.com" target="_blank" rel="noopener noreferrer">TowardsDataScience</a><br></em>
     </li><br>
     <li>
-    <b><a href="https://paribeshregmi.medium.com/a-soft-intro-to-general-relativity-aa46da221747" target="_blank" rel="noopener noreferrer">A soft Intro to General Relativity</a>:</b><br>
+    <b><a href="https://paribeshregmi.medium.com/a-soft-intro-to-general-relativity-aa46da221747" target="_blank" rel="noopener noreferrer">A soft Intro to General Relativity</a></b><br>
         The article provides an insight on the fundamentals of Einstein's Theory of General Relativity by explaining the basic phenomenons of gravity from a relativistic persective.
     </li><br>
 </ul>
