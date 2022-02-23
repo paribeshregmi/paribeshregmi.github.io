@@ -6,5 +6,5 @@ permalink: /curriculum-vitae/
 
 You can find my curriculum vitae/resume below.
 <ul>
-	<li><a href="/assets/curriculum-vitae/ganeshbr_cv.pdf">CV</a> (2 pages)</li>
+	<li><a href="/assets/curriculum-vitae/cv.pdf">CV</a></li>
 </ul>
