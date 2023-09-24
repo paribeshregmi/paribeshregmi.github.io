@@ -21,7 +21,7 @@ layout: default
         Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
     <br>
     <br>
-    <b>Research Interests: <\b> Statistical Machine Learning, Bayesian Deep Learning, Computational Biology, Mathematics, and Statistics.
+    <b>Research Interests: </b> Statistical Machine Learning, Bayesian Deep Learning, Computational Biology, Mathematics, and Statistics.
     </p>
 
 </div>
