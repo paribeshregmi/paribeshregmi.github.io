@@ -17,6 +17,7 @@ layout: default
         
         I am currently a third year student in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">GCCIS PhD program</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>. I am a part of the Lab of Use-Inspired Computational Intelligence (LUCI) where I work under the supervison of <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a>. My research areas span Statistical Machine Learning, Bayesian Deep Learning, Computational Biology, Mathematics, and Statistics.
         <br>
+        <br>
         Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
          
     </p>
