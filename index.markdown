@@ -10,8 +10,7 @@ layout: default
     {% include image.html url="/assets/images/profile_home.jpg" width=200 height=400 align="right" %}
     
     <h2>
-        Welcome, <br>
-        I'm Paribesh.
+        Welcome,
     </h2>
     <p> 
         
