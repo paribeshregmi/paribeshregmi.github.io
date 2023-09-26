@@ -232,36 +232,11 @@ text-decoration: none;
 font-family: 'Capita', Georgia, serif;
 }
 
-.timeline {
-  width: 100%;
-  height: 300px;
-  overflow: scroll;
+table {
+  border-collapse: collapse;
 }
 
-.timeline li {
-  display: flex;
-  align-items: center;
-}
-
-.timeline li:not(:last-child) {
-  border-bottom: 1px solid #ccc;
-}
-
-.timeline li .time {
-  width: 100px;
-  text-align: right;
-}
-
-.timeline li .event {
-  width: 200px;
-  text-align: left;
-}
-
-.timeline li .line {
-  position: relative;
-  top: 10px;
-  left: -10px;
-  width: 5px;
-  height: 100px;
-  background-color: #ccc;
+td {
+  border: none;
+  padding: 10px;
 }
