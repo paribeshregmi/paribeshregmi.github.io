@@ -231,3 +231,16 @@ text-decoration: none;
  font-weight: 600;
 font-family: 'Capita', Georgia, serif;
 }
+
+.timeline {
+  position: relative;
+  overflow: auto;
+}
+
+.year {
+  margin-bottom: 16px;
+}
+
+.event {
+  margin-bottom: 8px;
+}
