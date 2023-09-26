@@ -53,10 +53,3 @@ layout: default
     <td>Successfully completed an undergraduate degree in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal </td>
   </tr>
 </table>
- 
-    
-
-
-
-
-</div>
