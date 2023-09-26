@@ -13,12 +13,12 @@ permalink: /publications/
     <li>   
     <b><a href="https://arxiv.org/abs/2010.08516" target="_blank" rel="noopener noreferrer">Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks</a></b><br>
         Kishan KC, Rui Li, Paribesh Regmi, Anne Haake <br>
-        <em> https://arxiv.org/abs/2211.13231 </em>
+        <em> <a href="https://arxiv.org/abs/2211.13231" target="_blank" rel="noopener noreferrer">https://arxiv.org/abs/2211.13231</a> </em>
     </li><br>
     <li>
         <b><a href="https://www.ijcaonline.org/archives/volume178/number31/regmi-2019-ijca-918401.pdf" target="_blank" rel="noopener noreferrer">Nepali Speech Recognition Using RNN-CTC Model</a></b><br>
         Paribesh Regmi, Arjun Dahal, Basanta Joshi <br>
-        <em> Published in <a href="https://www.ijcaonline.org" target="_blank" rel="noopener noreferrer">International Journal of Computer Applications, 2019</a><br></em>
+        <em> Published in <a href="https://www.ijcaonline.org" target="_blank" rel="noopener noreferrer">International Journal of Computer Applications, 2019</a></em>
     </li><br>
   
 </ul>
