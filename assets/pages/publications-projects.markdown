@@ -6,13 +6,13 @@ permalink: /publications/
 
 <ul>
     <li>
-        <b>AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders (accepted, NeurIPSS 2023)</b><br>
+        <b>AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders (accepted, NeurIPS 2023)</b><br>
         Introducing a Bayesian framework that automatically adapts VAE network structures to data and prevents overfitting as the network grows deeper. An efficient estimator is proposed that closely approximates the evidence function and allows VAEs to jointly learn latent representations and the network structure. <br>
         <em> Accepted as a full paper in 37<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS), 2023</em>
     </li><br>
     <li>   
     <b><a href="https://arxiv.org/abs/2010.08516" target="_blank" rel="noopener noreferrer">Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks</a></b><br>
-      Introducing a Bayesian framework for the inference of the Graph Convolution Network (GCN) structure, enabling GCN to adapt its structure based on the input graph. This approach effectively addresses overfitting and over-smoothing concerns, ultimately yielding meaningful node representations for predicting biomedical interactions.
+      Introducing a Bayesian framework for the inference of the Graph Convolution Network (GCN) structure, enabling GCN to adapt its structure based on the input graph. This approach effectively addresses overfitting and over-smoothing concerns, ultimately yielding meaningful node representations for predicting biomedical interactions. <br>
         <em> https://arxiv.org/abs/2211.13231 </em>
     </li><br>
     <li>
