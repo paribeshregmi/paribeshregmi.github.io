@@ -25,7 +25,7 @@ layout: default
  
  <table>
   <tr>
-    <td><b>May, 2023</b></td>
+    <td><b>Sep, 2023</b></td>
     <td> Our paper titled "AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders" is accepted as a full conference paper at NeurIPS 2023</td>
   </tr>
   <tr>
