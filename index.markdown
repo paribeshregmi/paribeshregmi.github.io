@@ -33,11 +33,11 @@ layout: default
     <td> Passed my research potential assessment (PhD qualifying exam)</td>
   </tr>
   <tr>
-    <td><b>December, 2021</b></td>
+    <td><b>Dec, 2021</b></td>
     <td> Volunteered at the <a href="https://nips.cc/Conferences/2021" target="_blank" rel="noopener noreferrer"> Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021</a> </td>
   </tr>
   <tr>
-    <td><b>August, 2021</b></td>
+    <td><b>Aug, 2021</b></td>
     <td> Started PhD in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>, advised by <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a></td>
   </tr>
   <tr>
@@ -45,10 +45,10 @@ layout: default
     <td>Promoted to Solutions Engineer at <a href="https://www.logpoint.com/en/" target="_blank" rel="noopener noreferrer">Logpoint</a></td>
   </tr>
   <tr>
-    <td><b>October, 2018</b></td>
+    <td><b>Oct, 2018</b></td>
     <td>Joined <a href="https://www.logpoint.com/en/" target="_blank" rel="noopener noreferrer">Logpoint</a>, a SIEM company as an Associate Solutions Engineer</td>
   </tr>
   <tr>
-    <td><b>September, 2018</b></td>
+    <td><b>Sep, 2018</b></td>
     <td>Successfully completed an undergraduate degree in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal </td>
   </tr>
