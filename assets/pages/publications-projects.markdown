@@ -11,7 +11,7 @@ permalink: /publications/
         <em> Accepted as a full paper in 37<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS), 2023</em>
     </li><br>
     <li>   
-    <b><a href="https://arxiv.org/abs/2010.08516" target="_blank" rel="noopener noreferrer">Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks</a></b><br>
+    <b><a href="https://arxiv.org/abs/2211.13231" target="_blank" rel="noopener noreferrer">Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks</a></b><br>
         Kishan KC, Rui Li, Paribesh Regmi, Anne Haake <br>
         <em> <a href="https://arxiv.org/abs/2211.13231" target="_blank" rel="noopener noreferrer">https://arxiv.org/abs/2211.13231</a> </em>
     </li><br>
