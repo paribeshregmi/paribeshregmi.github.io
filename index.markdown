@@ -16,7 +16,7 @@ layout: default
         
         I am currently a third year PhD student in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>. I am a part of the Lab of Use-Inspired Computational Intelligence (LUCI) where I work under the supervision of <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a>. Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
     <br><br>
-    <b>Research Interests: </b> Statistical Machine Learning, Bayesian Deep Learning, Computational Biology, Mathematics, and Statistics.
+    <b>Research Interests: </b> Statistical Machine Learning, Deep Learning, Bayesian Model Selection, Computational Biology, Statistics.
     </p><br><br>
 
 <h2>
@@ -25,7 +25,7 @@ layout: default
  
  <table>
   <tr>
-    <td><b>May, 2022</b></td>
+    <td><b>May, 2023</b></td>
     <td> Our paper titled "AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders" is accepted as a full conference paper at NeurIPS 2023</td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ layout: default
   </tr>
   <tr>
     <td><b>December, 2021</b></td>
-    <td> Volunteered at the <a href="https://nips.cc/Conferences/2021" target="_blank" rel="noopener noreferrer"> Thirty-Fifth Conference on Neural Information Processing Systems</a> (online) </td>
+    <td> Volunteered at the <a href="https://nips.cc/Conferences/2021" target="_blank" rel="noopener noreferrer"> Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS), 2021</a> </td>
   </tr>
   <tr>
     <td><b>August, 2021</b></td>
