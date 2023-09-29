@@ -7,7 +7,7 @@ layout: default
 
 <div class="home">
 
-    {% include image.html url="/assets/images/profile_home.jpg" width=200 height=400 align="right" %}
+    {% include image.html url="/assets/images/profile_home.jpg" width=300 height=600 align="right" %}
     
     <h2>
         Welcome,
