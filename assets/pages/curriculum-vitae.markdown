@@ -4,7 +4,4 @@ title: Curriculum Vitae
 permalink: /curriculum-vitae/
 ---
 
-You can find my curriculum vitae/resume below.
-<ul>
-	<li><a href="/assets/curriculum-vitae/cv.pdf">CV</a></li>
-</ul>
+Get a copy of my CV/resume <li><a href="/assets/curriculum-vitae/cv.pdf"><b>here</b></a></li>.
