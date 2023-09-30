@@ -17,12 +17,12 @@ layout: default
  </h2>
  My research focuses on developing Bayesian framework that allows deep learning models to dynamically adapt their structures in light of data. Currently, I am engaged in developing model selection frameworks for different learning scenarios like supervised/unsupervised learning, graph learning, and federated learning. <br>
     <b>Interests: </b> Statistical Machine Learning, Bayesian Methods, Bayesian Model Selection in Deep Learning, Deep Graph Learning, Federated Learning
-    </p><br> <br>
+    </p><br>
 
 <h2>
  <b>News</b>
  </h2>
- <div class="updates" style="height: 17em; overflow-y: scroll;">
+ <div class="updates" style="height: 20em; overflow-y: scroll;">
      <table>
       <tr>
         <td><b>Sep, 2023</b></td>
@@ -43,6 +43,10 @@ layout: default
       <tr>
         <td><b>May, 2021</b></td>
         <td>Promoted to Solutions Engineer at <a href="https://www.logpoint.com/en/" target="_blank" rel="noopener noreferrer">LogPoint</a></td>
+      </tr>
+      <tr>
+        <td><b>Jul, 2019</b></td>
+        <td>Our paper titled <a href="https://www.ijcaonline.org/archives/volume178/number31/30732-30732-2019918401"> "Nepali Speech Recognition Using RNN-CTC Model"</a> is published in the International Journal of Computer Applications -- <b>Paribesh Regmi</b>, Arjun Dahal, Basanta Joshi</td>
       </tr>
       <tr>
         <td><b>Oct, 2018</b></td>
