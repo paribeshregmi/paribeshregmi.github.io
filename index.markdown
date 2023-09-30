@@ -11,11 +11,11 @@ layout: default
     <p> 
         
         I am currently a third year PhD student in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>. I am a part of the Lab of Use-Inspired Computational Intelligence (LUCI) where I work under the supervision of <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a>. Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
-    <br><br>
+    <br>
     <h2>
  <b>Research</b>
  </h2>
- My research focuses on the integration of Bayesian model selection in deep learning. I am interested in developing Bayesian framework that allows deep neural networks to dynamically adapt their structures in light of data. Currently, I am engaged in developing model selection frameworks for different learning scenarios like supervised/unsupervised learning, graph learning, and federated learning.
+ My research focuses on developing Bayesian framework that allows deep learning models to dynamically adapt their structures in light of data. Currently, I am engaged in developing model selection frameworks for different learning scenarios like supervised/unsupervised learning, graph learning, and federated learning. <br>
     <b>Interests: </b> Statistical Machine Learning, Bayesian Methods, Bayesian Model Selection in Deep Learning, Deep Graph Learning, Federated Learning
     </p><br> <br>
 
@@ -26,7 +26,7 @@ layout: default
      <table>
       <tr>
         <td><b>Sep, 2023</b></td>
-        <td> Our paper titled "AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders" is accepted as a full conference paper at <b>NeurIPS 2023</b> --<b>Paribesh Regmi</b>; Rui Li</td>
+        <td> Our paper titled "AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders" is accepted as a full conference paper at <b>NeurIPS 2023</b> -- <b>Paribesh Regmi</b>; Rui Li</td>
       </tr>
       <tr>
         <td><b>May, 2022</b></td>
