@@ -7,7 +7,7 @@ layout: default
 
 <div class="home">
 
-    {% include image.html url="/assets/images/profile_home.jpg" width=300 height=600 align="right" %}
+    {% include image.html url="/assets/images/profile_home.jpg" width=300 height=600 align="left" %}
     <p> 
         
         I am currently a third year PhD student in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>. I am a part of the Lab of Use-Inspired Computational Intelligence (LUCI) where I work under the supervision of <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a>. Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
