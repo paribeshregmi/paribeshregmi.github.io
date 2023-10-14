@@ -46,7 +46,7 @@ layout: default
       </tr>
       <tr>
         <td><b>Jul, 2019</b></td>
-        <td>Our paper titled <a href="https://www.ijcaonline.org/archives/volume178/number31/30732-30732-2019918401"> "Nepali Speech Recognition Using RNN-CTC Model"</a> is published in the International Journal of Computer Applications -- <b>Paribesh Regmi</b>; Arjun Dahal; Basanta Joshi</td>
+        <td>Our paper titled <a href="https://www.ijcaonline.org/archives/volume178/number31/30732-30732-2019918401" target="_blank" rel="noopener noreferrer"> "Nepali Speech Recognition Using RNN-CTC Model"</a> is published in the International Journal of Computer Applications -- <b>Paribesh Regmi</b>; Arjun Dahal; Basanta Joshi</td>
       </tr>
       <tr>
         <td><b>Oct, 2018</b></td>
