@@ -15,7 +15,7 @@ layout: default
     <h2>
  <b>Research</b>
  </h2>
- My research focuses on developing Bayesian framework that allows deep learning models to dynamically adapt their structures in light of data. Currently, I am engaged in developing model selection frameworks for different learning scenarios like supervised/unsupervised learning, graph learning, and federated learning. <br>
+ My research focuses on developing Bayesian framework that allows deep learning models to dynamically adapt their structures in light of data. Currently, I am engaged in developing model selection frameworks for different learning scenarios like supervised/unsupervised learning, graph learning, and federated learning. <br><br>
     <b>Interests: </b> Statistical Machine Learning, Deep Learning, Bayesian Methods, Bayesian Model Selection, Deep Graph Learning, Federated Learning
     </p><br>
 
