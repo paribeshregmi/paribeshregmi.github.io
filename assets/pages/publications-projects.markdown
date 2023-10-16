@@ -6,9 +6,9 @@ permalink: /publications/
 
 <ul>
     <li>
-        <b>AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders (accepted, NeurIPS 2023)</b><br>
+        <b><a href="https://neurips.cc/virtual/2023/poster/70855" target="_blank" rel="noopener noreferrer">AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders</a></b><br>
         Paribesh Regmi; Rui Li <br>
-        <em> Accepted as a full paper in 37<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS), 2023</em>
+        <em> 37<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS), 2023</em>
     </li><br>
     <li>   
     <b><a href="https://arxiv.org/abs/2211.13231" target="_blank" rel="noopener noreferrer">Predicting Biomedical Interactions with Probabilistic Model Selection for Graph Neural Networks</a></b><br>
