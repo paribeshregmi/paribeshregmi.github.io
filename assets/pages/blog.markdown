@@ -10,7 +10,7 @@ permalink: /blog/
     </li><br>
     <li>
         <b><a href="https://towardsdatascience.com/constrained-optimization-and-the-kkt-conditions-a3541d57a994" target="_blank" rel="noopener noreferrer">Constrained Optimization and the KKT Conditions</a></b><br>
-        A discussion on how Lagrangian function solves the challenges introduced by the constraints in an optimization problem. Moreover, the optimality of the Lagrangian is discussed by gaining insights into the KKT conditions.<br>
+        A discussion on how the Lagrangian function solves the challenges introduced by the constraints in an optimization problem. Moreover, the optimality of the Lagrangian is discussed by gaining insights into the KKT conditions.<br>
         <em> Published in <a href="https://towardsdatascience.com" target="_blank" rel="noopener noreferrer">TowardsDataScience</a><br></em>
     </li><br>
     <li>
