@@ -6,7 +6,7 @@ permalink: /blog/
 <ul>
     <li>
         <b><a href="https://paribeshregmi.medium.com/spectral-clustering-on-graphs-400a33456093" target="_blank" rel="noopener noreferrer">Spectral Clustering on Graphs</a></b><br>
-        Understanding graphs by an intuitive deep dive into the graph Laplacian and showcasing its application in effectively partitioning graphs into clusters.<br>
+        Understanding graphs by an intuitive deep dive into the graph Laplacian and showcasing its application in effectively partitioning a graph into clusters.<br>
     </li><br>
     <li>
         <b><a href="https://towardsdatascience.com/constrained-optimization-and-the-kkt-conditions-a3541d57a994" target="_blank" rel="noopener noreferrer">Constrained Optimization and the KKT Conditions</a></b><br>
