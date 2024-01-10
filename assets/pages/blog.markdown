@@ -25,7 +25,7 @@ permalink: /blog/
     </li><br>
     <li>
     <b><a href="https://paribeshregmi.medium.com/a-soft-intro-to-general-relativity-aa46da221747" target="_blank" rel="noopener noreferrer">A soft Intro to General Relativity</a></b><br>
-        Offering insights into the foundational principles of Einstein's Theory of General Relativity by exploring the everyday effects of gravity from a relativistic standpoint.
+        Offering insights into the foundational principles of Einstein's Theory of General Relativity by exploring the everyday effects of gravity from a relativistic standpoint.<br>
         <em> Published in <a href="https://www.cantorsparadise.com/" target="_blank" rel="noopener noreferrer">Cantor's Parradise</a><br></em>
     </li><br>
     <li>
