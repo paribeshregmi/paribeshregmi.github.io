@@ -26,6 +26,7 @@ permalink: /blog/
     <li>
     <b><a href="https://paribeshregmi.medium.com/a-soft-intro-to-general-relativity-aa46da221747" target="_blank" rel="noopener noreferrer">A soft Intro to General Relativity</a></b><br>
         Offering insights into the foundational principles of Einstein's Theory of General Relativity by exploring the everyday effects of gravity from a relativistic standpoint.
+        <em> Published in <a href="https://www.cantorsparadise.com/" target="_blank" rel="noopener noreferrer">Cantor's Parradise</a><br></em>
     </li><br>
     <li>
     <b><a href="https://medium.com/@paribeshregmi/how-interesting-are-black-holes-62295ffd1335" target="_blank" rel="noopener noreferrer">How Interesting are Black Holes?</a></b><br>
