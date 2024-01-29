@@ -24,6 +24,10 @@ layout: default
  </h2>
  <div class="updates" style="height: 21em; overflow-y: scroll;">
      <table>
+     <tr>
+        <td><b>Dec, 2023</b></td>
+        <td> Presented our poster on <a href="https://neurips.cc/virtual/2023/poster/70855" target="_blank" rel="noopener noreferrer">"AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders"</a> at <b>NeurIPS 2023</b> in New Orleans, LA.</td>
+      </tr>
       <tr>
         <td><b>Sep, 2023</b></td>
         <td> Our paper titled <a href="https://neurips.cc/virtual/2023/poster/70855" target="_blank" rel="noopener noreferrer">"AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders"</a> is accepted as a full conference paper at <b>NeurIPS 2023</b> - <b>Paribesh Regmi</b>; Rui Li</td>
