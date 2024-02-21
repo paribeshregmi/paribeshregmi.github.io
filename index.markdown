@@ -10,7 +10,7 @@ layout: default
     {% include image.html url="/assets/images/profile_home.jpg" width=300 height=600 align="left" %}
     <p> 
         
-        I am currently a third year PhD student in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>. I work with <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a> in the Lab of Use-Inspired Computational Intelligence (LUCI). Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
+        I am currently a third year PhD student in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>, working with <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a> in the Lab of Use-Inspired Computational Intelligence (LUCI). Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
     <br>
     <h2>
  <b>Research</b>
