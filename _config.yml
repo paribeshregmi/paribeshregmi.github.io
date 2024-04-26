@@ -21,7 +21,7 @@
 title: Paribesh Regmi
 # general_email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  <i>Copyright (c) 2023 Paribesh Regmi</i>
+  <i>Copyright (c) 2024 Paribesh Regmi</i>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 disqus: https://alienspline.disqus.com/embed.js
