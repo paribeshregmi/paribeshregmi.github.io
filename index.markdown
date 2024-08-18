@@ -15,7 +15,9 @@ layout: default
     <h2>
  <b>Research</b>
  </h2>
- My research focuses on developing Bayesian framework that allows deep learning models to dynamically adapt their structures in light of data. Currently, I am engaged in developing model selection frameworks for different learning scenarios like supervised/unsupervised learning, graph learning, and federated learning. <br><br>
+My research spans the areas of Bayesian methods, graph learning, generative models, and graph generation, often lying at the intersection of two or more of these fields. My research works include developing Bayesian model selection frameworks for generative model and graph learning. Currently, I am focused on developing efficient graph generation algorithms using diffusion and flow-matching. <br><br>
+ 
+ <!-- My research focuses on developing Bayesian framework that allows deep learning models to dynamically adapt their structures in light of data. Currently, I am engaged in developing model selection frameworks for different learning scenarios like supervised/unsupervised learning, graph learning, and federated learning. <br><br>  -->
     <b>Interests: </b> Statistical Machine Learning, Deep Learning, Bayesian Methods, Deep Graph Learning, Generative Models - (VAE, Diffusion Models, Flow Matching), Graph Generation
     </p><br>
 
