@@ -26,6 +26,10 @@ My research spans the areas of Bayesian methods, graph learning, generative mode
  </h2>
  <div class="updates" style="height: 21em; overflow-y: scroll;">
      <table>
+      <tr>
+        <td><b>Dec, 2023</b></td>
+        <td> Serving as a reviewer for <b>International Conference on Learning Representations (ICLR), 2024.</b></td>
+      </tr>
      <tr>
         <td><b>Dec, 2023</b></td>
         <td> Presented our poster on <a href="https://neurips.cc/virtual/2023/poster/70855" target="_blank" rel="noopener noreferrer">"AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders"</a> at <b>NeurIPS 2023</b> in New Orleans, LA.</td>
