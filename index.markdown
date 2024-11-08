@@ -27,7 +27,7 @@ My research spans the areas of Bayesian methods, graph learning, generative mode
  <div class="updates" style="height: 21em; overflow-y: scroll;">
      <table>
       <tr>
-        <td><b>Dec, 2023</b></td>
+        <td><b>Oct, 2024</b></td>
         <td> Serving as a reviewer for <b>International Conference on Learning Representations (ICLR), 2024.</b></td>
       </tr>
      <tr>
