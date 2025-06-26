@@ -23,13 +23,17 @@ My research spans Bayesian methods, graph learning, and generative models. I hav
  </h2>
  <div class="updates" style="height: 21em; overflow-y: scroll;">
      <table>
+     <tr>
+        <td><b>June, 2025</b></td>
+        <td> Our paper <a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">"Bayesian Neighborhood Adaptation for Graph Neural Networks"</a> is accepted in Transaction of Machine Learning Research (TMLR).</b></td>
+      </tr>
+      <tr>
+        <td><b>May, 2025</b></td>
+        <td> Serving as a reviewer for <b>Conference on Neural Information Processing Systems (NeurIPS), 2025.</b></td>
+      </tr>
       <tr>
         <td><b>Oct, 2024</b></td>
         <td> Serving as a reviewer for <b>International Conference on Learning Representations (ICLR), 2024.</b></td>
-      </tr>
-     <tr>
-        <td><b>Dec, 2023</b></td>
-        <td> Presented our poster on <a href="https://neurips.cc/virtual/2023/poster/70855" target="_blank" rel="noopener noreferrer">"AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders"</a> at <b>NeurIPS 2023</b> in New Orleans, LA.</td>
       </tr>
       <tr>
         <td><b>Sep, 2023</b></td>
@@ -38,10 +42,6 @@ My research spans Bayesian methods, graph learning, and generative models. I hav
       <tr>
         <td><b>May, 2022</b></td>
         <td> Passed my research potential assessment (PhD qualifying exam)</td>
-      </tr>
-      <tr>
-        <td><b>Dec, 2021</b></td>
-        <td> Volunteered at the <a href="https://nips.cc/Conferences/2021" target="_blank" rel="noopener noreferrer"> Thirty-Fifth Conference on Neural Information Processing Systems <b>(NeurIPS), 2021</b></a> </td>
       </tr>
       <tr>
         <td><b>Aug, 2021</b></td>
