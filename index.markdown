@@ -25,7 +25,7 @@ My research spans Bayesian methods, graph learning, and generative models. I hav
      <table>
      <tr>
         <td><b>June, 2025</b></td>
-        <td> Our paper <a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">"Bayesian Neighborhood Adaptation for Graph Neural Networks"</a> is accepted in <b>Transactions of Machine Learning Research (TMLR)</b>-- <b>Paribesh Regmi</b>; Rui Li; Kishan KC</td>
+        <td> Our paper <a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">"Bayesian Neighborhood Adaptation for Graph Neural Networks"</a> is accepted in <b>Transactions of Machine Learning Research (TMLR)</b> - <b>Paribesh Regmi</b>; Rui Li; Kishan KC</td>
       </tr>
       <tr>
         <td><b>May, 2025</b></td>
