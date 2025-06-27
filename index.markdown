@@ -25,7 +25,7 @@ My research spans Bayesian methods, graph learning, and generative models. I hav
      <table>
      <tr>
         <td><b>June, 2025</b></td>
-        <td> Our paper <a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">"Bayesian Neighborhood Adaptation for Graph Neural Networks"</a> is accepted in <b>Transactions of Machine Learning Research (TMLR).</b></td>
+        <td> Our paper <a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">"Bayesian Neighborhood Adaptation for Graph Neural Networks"</a> is accepted in <b>Transactions of Machine Learning Research (TMLR)</b>-- <b>Paribesh Regmi</b>; Rui Li; Kishan KC</td>
       </tr>
       <tr>
         <td><b>May, 2025</b></td>
@@ -46,10 +46,6 @@ My research spans Bayesian methods, graph learning, and generative models. I hav
       <tr>
         <td><b>Aug, 2021</b></td>
         <td> Started PhD in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>, advised by <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a></td>
-      </tr>
-      <tr>
-        <td><b>May, 2021</b></td>
-        <td>Promoted to Solutions Engineer at <a href="https://www.logpoint.com/en/" target="_blank" rel="noopener noreferrer">LogPoint</a></td>
       </tr>
       <tr>
         <td><b>Jul, 2019</b></td>
