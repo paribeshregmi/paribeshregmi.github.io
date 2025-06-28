@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 <ul>
+    <li>   
+    <b><a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">Bayesian Neighborhood Adaptation for Graph Neural Networks</a></b><br>
+        Paribesh Regmi; Rui Li; Kishan KC <br>
+        <em> Transactions of Machine Learning Research (TMLR), 2025 </em>
+    </li><br>
     <li>
         <b><a href="https://neurips.cc/virtual/2023/poster/70855" target="_blank" rel="noopener noreferrer">AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders</a></b><br>
         Paribesh Regmi; Rui Li <br>
