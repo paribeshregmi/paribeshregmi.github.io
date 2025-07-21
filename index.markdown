@@ -15,7 +15,7 @@ layout: default
     <h2>
  <b>Research</b>
  </h2>
-My research spans Bayesian methods, graph learning, and generative models. I have worked on developing Bayesian model selection frameworks for both generative modeling and graph learning. Currently, I am focused on designing efficient algorithms to improve the inference speed of diffusion- and flow-based generative models. <br><br>
+My research spans Bayesian methods, graph learning, and generative models. I have worked on developing Bayesian model selection frameworks for generative models (VAEs) and graph learning. Currently, I am focused on designing efficient algorithms to improve the inference speed of diffusion- and flow-based generative models. <br><br>
 
 
 <h2>
