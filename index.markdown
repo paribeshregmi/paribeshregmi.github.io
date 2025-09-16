@@ -23,10 +23,14 @@ My research spans Bayesian methods, graph learning, and generative models. I hav
  </h2>
  <div class="updates" style="height: 21em; overflow-y: scroll;">
      <table>
-     <tr>
-        <td><b>June, 2025</b></td>
-        <td> Our paper <a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">"Bayesian Neighborhood Adaptation for Graph Neural Networks"</a> is accepted in <b>Transactions of Machine Learning Research (TMLR)</b> - <b>Paribesh Regmi</b>; Rui Li; Kishan KC</td>
+    <tr>
+        <td><b>Jun-Sep, 2025</b></td>
+        <td> Finished summer internship at Amazon.com Inc. as an Applied Science Intern.</td>
       </tr>
+     <tr>
+        <td><b>Jun, 2025</b></td>
+        <td> Our paper <a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">"Bayesian Neighborhood Adaptation for Graph Neural Networks"</a> is accepted in <b>Transactions of Machine Learning Research (TMLR)</b> - <b>Paribesh Regmi</b>; Rui Li; Kishan KC</td>
+    </tr>
       <tr>
         <td><b>May, 2025</b></td>
         <td> Serving as a reviewer for <b>Conference on Neural Information Processing Systems (NeurIPS), 2025.</b></td>
