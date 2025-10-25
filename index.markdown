@@ -10,12 +10,12 @@ layout: default
     {% include image.html url="/assets/images/profile_home.jpg" width=300 height=600 align="left" %}
     <p> 
         
-        I am a fourth year PhD student in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>, working with <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a> in the Lab of Use-Inspired Computational Intelligence (LUCI). Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
+        I am a final year PhD student in <a href="https://www.rit.edu/computing/study/computing-and-information-sciences-phd" target="_blank" rel="noopener noreferrer">Computing and Information Science</a> at <a href="https://www.rit.edu/" target="_blank" rel="noopener noreferrer">Rochester Institute of Technology (RIT)</a>, working with <a href="https://ruililuci.com/" target="_blank" rel="noopener noreferrer">Prof. Rui Li</a> in the Lab of Use-Inspired Computational Intelligence (LUCI). Before starting my PhD, I completed my undergraduate in <a href="http://doece.pcampus.edu.np/" target="_blank" rel="noopener noreferrer"> Electronics and Communication Engineering</a> at <a href="https://pcampus.edu.np/" target="_blank" rel="noopener noreferrer">Pulchowk Campus, IOE</a>, Nepal.
     <br>
     <h2>
  <b>Research</b>
  </h2>
-My research spans Bayesian methods, graph learning, and generative models. I have worked on developing Bayesian model selection frameworks for generative models (VAEs) and graph learning. Currently, I am focused on designing efficient algorithms to improve the inference speed of diffusion- and flow-based generative models. <br><br>
+My research spans the areas of Bayesian Methods, Graph Learning, Diffusion Generative Models, and Vision-Language Models (VLMs). My works include developing Bayesian model selection frameworks for generative models (VAEs) and graph learning, and visual token compression algorithm for VLMs. Currently, I am focused on designing efficient algorithms to improve the inference speed of diffusion- and flow-based generative models. <br><br>
 
 
 <h2>
