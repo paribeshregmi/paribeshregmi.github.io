@@ -24,7 +24,7 @@ permalink: /blog/
         <em> Published in <a href="https://towardsdatascience.com" target="_blank" rel="noopener noreferrer">TowardsDataScience</a><br></em>
     </li><br>
     <li>
-    <b><a href="https://paribeshregmi.medium.com/the-principle-of-stationary-action-c69237bd4ea2" target="_blank" rel="noopener noreferrer">Principle of Stationary Action - Nature's Hidden Script</a></b><br>
+    <b><a href="https://paribeshregmi.medium.com/the-principle-of-stationary-action-c69237bd4ea2" target="_blank" rel="noopener noreferrer">The Principle of Stationary Action - Nature's Hidden Script</a></b><br>
         Shedding light on the deep principle that unifies all of physics.
        </li><br>
     <li>
