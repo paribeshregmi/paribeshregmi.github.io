@@ -28,7 +28,7 @@ permalink: /blog/
         Shedding light on the foundational principle that unifies all of physics.
        </li><br>
     <li>
-    <b><a href="https://paribeshregmi.medium.com/the-principle-of-stationary-action-c69237bd4ea2" target="_blank" rel="noopener noreferrer">Noether's Theorem</a></b><br>
+    <b><a href="https://paribeshregmi.medium.com/noethers-theorem-7bc6fa8b62ac" target="_blank" rel="noopener noreferrer">Noether's Theorem</a></b><br>
         Insights on the beautiful connection between symmetry and conservation laws.
        </li><br>
     <li>
