@@ -28,6 +28,10 @@ permalink: /blog/
         Shedding light on the foundational principle that unifies all of physics.
        </li><br>
     <li>
+    <b><a href="https://paribeshregmi.medium.com/the-principle-of-stationary-action-c69237bd4ea2" target="_blank" rel="noopener noreferrer">Noether's Theorem</a></b><br>
+        Insights on the beautiful connection between symmetry and conservation laws.
+       </li><br>
+    <li>
     <b><a href="https://paribeshregmi.medium.com/a-soft-intro-to-general-relativity-aa46da221747" target="_blank" rel="noopener noreferrer">A soft Intro to General Relativity</a></b><br>
         Offering insights into the foundational principles of Einstein's Theory of General Relativity by exploring the everyday effects of gravity from a relativistic standpoint.<br>
         <em> Published in <a href="https://www.cantorsparadise.com/" target="_blank" rel="noopener noreferrer">Cantor's Paradise</a><br></em>
