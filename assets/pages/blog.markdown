@@ -10,12 +10,12 @@ permalink: /blog/
     </li><br>
     <li>
         <b><a href="https://towardsdatascience.com/constrained-optimization-and-the-kkt-conditions-a3541d57a994" target="_blank" rel="noopener noreferrer">Constrained Optimization and the KKT Conditions</a></b><br>
-        A discussion on how the Lagrangian function solves the challenges introduced by the constraints in an optimization problem. Moreover, the optimality of the Lagrangian is discussed by gaining insights into the KKT conditions.<br>
+       A discussion of how the Lagrangian handles constraints in optimization and the role of KKT conditions.<br>
         <em> Published in <a href="https://towardsdatascience.com" target="_blank" rel="noopener noreferrer">TowardsDataScience</a><br></em>
     </li><br>
     <li>
         <b><a href="https://towardsdatascience.com/geodesic-regression-d0334de2d9d8" target="_blank" rel="noopener noreferrer">Geodesic Regression</a></b><br>
-        A generalization of regression in Euclidean space to Riemannian Manifolds. Some basic concepts of Riemannian Geometry are covered before diving into the topic.<br>
+        A generalization of regression in Euclidean space to Riemannian Manifolds.<br>
         <em> Published in <a href="https://towardsdatascience.com" target="_blank" rel="noopener noreferrer">TowardsDataScience</a><br></em>
     </li><br>
     <li>   
