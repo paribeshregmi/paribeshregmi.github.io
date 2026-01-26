@@ -24,6 +24,10 @@ My research spans the areas of Bayesian Methods, Graph Learning, Diffusion Gener
  <div class="updates" style="height: 21em; overflow-y: scroll;">
      <table>
     <tr>
+        <td><b>Jun, 2025</b></td>
+        <td> Our paper <a href="https://openreview.net/forum?id=cZqAk87Lu4" target="_blank" rel="noopener noreferrer">"Enhancing Shortcut Models with Cumulative Self-Consistency Loss for One-Step Diffusion"</a> is accepted in <b>International Conference on Learning Representations (ICLR 2026)</b> - <b>Paribesh Regmi</b>; Sandesh Ghimire; Rui Li</td>
+    </tr>
+    <tr>
         <td><b>Jun-Sep, 2025</b></td>
         <td> Finished summer internship at Amazon.com Inc. as an Applied Science Intern.</td>
       </tr>
@@ -31,14 +35,6 @@ My research spans the areas of Bayesian Methods, Graph Learning, Diffusion Gener
         <td><b>Jun, 2025</b></td>
         <td> Our paper <a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">"Bayesian Neighborhood Adaptation for Graph Neural Networks"</a> is accepted in <b>Transactions of Machine Learning Research (TMLR)</b> - <b>Paribesh Regmi</b>; Rui Li; Kishan KC</td>
     </tr>
-      <tr>
-        <td><b>May, 2025</b></td>
-        <td> Serving as a reviewer for <b>Conference on Neural Information Processing Systems (NeurIPS), 2025.</b></td>
-      </tr>
-      <tr>
-        <td><b>Oct, 2024</b></td>
-        <td> Serving as a reviewer for <b>International Conference on Learning Representations (ICLR), 2024.</b></td>
-      </tr>
       <tr>
         <td><b>Sep, 2023</b></td>
         <td> Our paper titled <a href="https://neurips.cc/virtual/2023/poster/70855" target="_blank" rel="noopener noreferrer">"AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders"</a> is accepted as a full conference paper at <b>NeurIPS 2023</b> - <b>Paribesh Regmi</b>; Rui Li</td>
