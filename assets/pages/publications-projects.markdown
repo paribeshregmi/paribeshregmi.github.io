@@ -8,7 +8,7 @@ permalink: /publications/
     <li>   
     <b><a href="https://openreview.net/forum?id=cZqAk87Lu4" target="_blank" rel="noopener noreferrer">Enhancing Shortcut Models with Cumulative Self-Consistency Loss for One-Step Diffusion</a></b><br>
         Paribesh Regmi; Sandesh Ghimire; Rui Li<br>
-        <em> International Conference on Learning Representations (ICLR 2026) </em>
+        <em> International Conference on Learning Representations (ICLR), 2026 </em>
     </li><br>
     <li>   
     <b><a href="https://openreview.net/forum?id=2zEemRib3a" target="_blank" rel="noopener noreferrer">Bayesian Neighborhood Adaptation for Graph Neural Networks</a></b><br>
