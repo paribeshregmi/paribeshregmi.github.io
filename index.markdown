@@ -25,7 +25,7 @@ My research spans the areas of Bayesian Methods, Graph Learning, Diffusion Gener
      <table>
     <tr>
         <td><b>Jan, 2026</b></td>
-        <td> Our paper <a href="https://openreview.net/forum?id=cZqAk87Lu4" target="_blank" rel="noopener noreferrer">"Enhancing Shortcut Models with Cumulative Self-Consistency Loss for One-Step Diffusion"</a> is accepted in <b>International Conference on Learning Representations (ICLR 2026)</b> - <b>Paribesh Regmi</b>; Sandesh Ghimire; Rui Li</td>
+        <td> Our paper <a href="https://openreview.net/forum?id=cZqAk87Lu4" target="_blank" rel="noopener noreferrer">"Shortcut Diffusion Training with Cumulative Consistency Loss: An Optimal Control View"</a> is accepted in <b>International Conference on Learning Representations (ICLR 2026)</b> - <b>Paribesh Regmi</b>; Sandesh Ghimire; Rui Li</td>
     </tr>
     <tr>
         <td><b>Jun-Sep, 2025</b></td>
