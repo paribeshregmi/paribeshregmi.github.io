@@ -6,7 +6,7 @@ permalink: /publications/
 
 <ul>
     <li>   
-    <b><a href="https://openreview.net/forum?id=cZqAk87Lu4" target="_blank" rel="noopener noreferrer">Enhancing Shortcut Models with Cumulative Self-Consistency Loss for One-Step Diffusion</a></b><br>
+    <b><a href="https://openreview.net/forum?id=cZqAk87Lu4" target="_blank" rel="noopener noreferrer">Shortcut Diffusion Training with Cumulative Consistency Loss: An Optimal Control View</a></b><br>
         Paribesh Regmi; Sandesh Ghimire; Rui Li<br>
         <em> International Conference on Learning Representations (ICLR), 2026 </em>
     </li><br>
