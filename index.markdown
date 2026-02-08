@@ -15,7 +15,7 @@ layout: default
     <h2>
  <b>Research</b>
  </h2>
-My research spans the areas of Bayesian Methods, Graph Learning, Diffusion Generative Models, and Vision-Language Models (VLMs). My works include developing Bayesian model selection frameworks for generative models (VAEs) and graph learning, and visual token compression algorithm for VLMs. Currently, I am focused on designing efficient algorithms to improve the inference speed of diffusion- and flow-based generative models. <br><br>
+Broadly, my research spans Bayesian methods, graph learning, and generative models, including VAEs, diffusion models, and vision–language models. I have developed Bayesian model selection frameworks for VAEs and Graph Neural Networks, and visual token compression algorithm for vision–language models. Currently, I focus on diffusion and flow-based models, with an emphasis on improving generation efficiency through one- or few-step generation (check out my recent ICLR paper <a href="https://openreview.net/forum?id=cZqAk87Lu4" target="_blank" rel="noopener noreferrer">here</a>). <br><br>
 
 
 <h2>
